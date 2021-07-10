@@ -7,12 +7,14 @@ import {
   repos,
   leadership,
   skills,
+  design,
   getInTouch,
   experiences
 } from "./editable-stuff/config.js";
 import MainBody from "./components/home/MainBody";
 import AboutMe from "./components/home/AboutMe";
 import Project from "./components/home/Project";
+import WebDesign from "./components/home/WebDesign.jsx";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Skills from "./components/home/Skills";
@@ -53,6 +55,15 @@ const Home = React.forwardRef((props, ref) => {
           username={repos.gitHubUsername}
           length={repos.reposLength}
           specfic={repos.specificRepos}
+        />
+      )}
+      {design.show && (
+        <WebDesign 
+          heading={design.heading}
+          weblink={design.imageLink}
+          weblink2={design.imageLink2}
+          imgWidth={design.imageWidth}
+          imgHeight={design.imageHeight}
         />
       )}
       {leadership.show && (
