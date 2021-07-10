@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.10323613.chunk.css",
+    "main.js": "/home/static/js/main.364dd57d.chunk.js",
+    "main.js.map": "/home/static/js/main.364dd57d.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.099af63d.chunk.js": "/home/static/js/2.099af63d.chunk.js",
+    "static/js/2.099af63d.chunk.js.map": "/home/static/js/2.099af63d.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.1f3724ffcde29441302a11c1d825d249.js": "/home/precache-manifest.1f3724ffcde29441302a11c1d825d249.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.10323613.chunk.css.map": "/home/static/css/main.10323613.chunk.css.map",
+    "static/js/2.099af63d.chunk.js.LICENSE.txt": "/home/static/js/2.099af63d.chunk.js.LICENSE.txt",
+    "static/media/fromjapan2.png": "/home/static/media/fromjapan2.e71fa6c1.png",
+    "static/media/nakayamayutaro.jpg": "/home/static/media/nakayamayutaro.1a18b01e.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf",
+    "static/media/sample1.png": "/home/static/media/sample1.b867aa8d.png",
+    "static/media/sample2.png": "/home/static/media/sample2.13f1b421.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.099af63d.chunk.js",
+    "static/css/main.10323613.chunk.css",
+    "static/js/main.364dd57d.chunk.js"
+  ]
+}
